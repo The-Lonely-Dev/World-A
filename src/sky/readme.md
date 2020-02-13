@@ -15,7 +15,9 @@ const sky = new Time(world);
 ### Methods
 
 `updateSunPosition()` - Moves the Sun by a predifined value in world JSON config file
+
 `updateMoonPosition()` - Moves the Moon by a predifined value in world JSON config file
+
 `updateMoonPhase(degrees)` - Sets the phase of the Moon according to entered angle (in degrees)
 
 ### Variables

@@ -1,5 +1,5 @@
 const [Time, Sky, Weather, fs] = [
-    require('./src/time'),
+    require('./src/time/time'),
     require('./src/sky'),
     require('./src/weather'),
     require('fs')
